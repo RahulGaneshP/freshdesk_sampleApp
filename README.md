@@ -10,9 +10,10 @@ This app improves customer support experience enabling an agent to collaborate e
 ## Screenshots
 
 <img src="./screenshots/ticket-sidebar.png" width="300">
-        Create Card        |         View Card  
-:-------------------------:|:-------------------------:
-![](./screenshots/create-card.jpeg)  |  ![](./screenshots/view-card.jpeg)
+<p float="left">
+  <img src="./screenshots/create-card.jpeg" width="400" />
+  <img src="./screenshots/view-card.jpeg" width="400" /> 
+</p>
 <img src="./screenshots/app-preview.png">
 
 ***
