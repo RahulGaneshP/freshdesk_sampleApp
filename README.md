@@ -10,14 +10,8 @@ This app improves customer support experience enabling an agent to collaborate e
 ## Screenshots
 
 <img src="./screenshots/ticket-sidebar.png" width="300">
-<div class="row">
-  <div class="column">
-    <img src="./screenshots/create-card.jpeg" alt="create-card" >
-  </div>
-  <div class="column">
-    <img src="./screenshots/view-card.jpeg" alt="view-card">
-  </div>
-</div>
+<img src="./screenshots/create-card.jpeg" width="300" >
+<img src="./screenshots/view-card.jpeg" width="300">
 <img src="./screenshots/app-preview.png">
 
 ***
